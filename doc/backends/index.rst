@@ -27,6 +27,7 @@ Contents:
    instagram
    linkedin
    live
+   localbitcoin
    mailru
    mixcloud
    odnoklassnikiru
